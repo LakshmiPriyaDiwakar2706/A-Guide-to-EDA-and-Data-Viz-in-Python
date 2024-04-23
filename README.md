@@ -23,3 +23,11 @@ This project explores the Chicago Park District Event Permits dataset, available
 * Implement the top 15 Pandas functions as outlined by Daniel Lee on LinkedIn to streamline modeling tasks.
 * Transition from static to interactive visualizations using Plotly for enhanced user engagement.
 * Develop a full-fledged dashboard to be hosted on a Jekyll site for broader accessibility.
+
+## Request for Feedback
+Please provide feedback on the data cleaning process and visualization techniques used. Your insights are valuable for refining the project and enhancing its outcomes.
+
+## Useful Links
+<a href="https://data.cityofchicago.org/Events/Chicago-Park-District-Event-Permits/pk66-w54g/about_data">Chicago Park District Event Permits dataset</a>
+<a href="https://www.linkedin.com/posts/danleedata_dont-memorize-all-the-pandas-operations-activity-7187864375758606336-sQcH/?utm_source=share&utm_medium=member_desktop">Daniel Lee's LinkedIn post on Pandas functions</a>
+
