@@ -32,3 +32,6 @@ Please provide feedback on the data cleaning process and visualization technique
 
 * <a href="https://www.linkedin.com/posts/danleedata_dont-memorize-all-the-pandas-operations-activity-7187864375758606336-sQcH/?utm_source=share&utm_medium=member_desktop">Daniel Lee's LinkedIn post on Pandas functions</a>
 
+*<a href="https://github.com/LakshmiPriyaDiwakar2706/A-Guide-to-EDA-and-Data-Viz-in-Python/blob/main/Chicago_Park_District_-_Event_Permits_20240411">Chicago Park District Event Permits Sample Dataset</a>
+
+
