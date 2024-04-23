@@ -28,6 +28,7 @@ This project explores the Chicago Park District Event Permits dataset, available
 Please provide feedback on the data cleaning process and visualization techniques used. Your insights are valuable for refining the project and enhancing its outcomes.
 
 ## Useful Links
-<a href="https://data.cityofchicago.org/Events/Chicago-Park-District-Event-Permits/pk66-w54g/about_data">Chicago Park District Event Permits dataset</a>
-<a href="https://www.linkedin.com/posts/danleedata_dont-memorize-all-the-pandas-operations-activity-7187864375758606336-sQcH/?utm_source=share&utm_medium=member_desktop">Daniel Lee's LinkedIn post on Pandas functions</a>
+* <a href="https://data.cityofchicago.org/Events/Chicago-Park-District-Event-Permits/pk66-w54g/about_data">Chicago Park District Event Permits dataset</a>
+
+* <a href="https://www.linkedin.com/posts/danleedata_dont-memorize-all-the-pandas-operations-activity-7187864375758606336-sQcH/?utm_source=share&utm_medium=member_desktop">Daniel Lee's LinkedIn post on Pandas functions</a>
 
