@@ -1,7 +1,7 @@
 # A-Guide-to-EDA-and-Data-Viz-in-Python
 
 ## Project Overview
-This project explores the Chicago Park District Event Permits dataset, available from the City of Chicago's official website. The focus is on mastering Exploratory Data Analysis (EDA) processes and employing Plotly for creating interactive visualizations, which could eventually be integrated into a dashboard hosted on a Jekyll webpage.
+This project explores the Chicago Park District Event Permits dataset, available from the City of Chicago's official website. The focus is on mastering Exploratory Data Analysis (EDA) processes and employing Plotly for creating interactive visualizations, which could eventually be integrated into a dashboard hosted on a Jekyll webpage
 
 ## Methods and Tools Employed
 * Data Acquisition: Utilizing APIs to fetch real-time data directly in JSON format, avoiding static files like CSV or Excel.
